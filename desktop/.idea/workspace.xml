@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="desktop:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="018e7f96-709e-4ce7-81eb-1033cd5da72f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_gradle_test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_gradle_test/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_gradle_test/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_gradle_test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_gradle_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_gradle_test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_gradle_test/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_gradle_test/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_gradle_test/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_gradle_test/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_gradle_test/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_gradle_test/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_gradle_test/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_gradle_test/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_test/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_test/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_test/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_test/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_test/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_test/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_test/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_test/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../website/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../website/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../website/src/main/java/com/example/website/Application.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../website/src/main/java/com/example/website/MyClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../website/src/main/java/com/example/website/plugins/Routing.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../website/src/main/java/com/example/website/plugins/Templating.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/artifacts/basic_to_koltin_game_two_to_ten_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;machete38&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/machete38/basic_to_koltin_game_two_to_ten.git&quot;,
+    &quot;accountId&quot;: &quot;89046517-5e31-4b7a-8fd3-8197d092225f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2nw7ZruevKLrOGB9dwNhUNN1xDM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/machete3845/Downloads/basic_to_koltin_game_two_to_ten/desktop&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="018e7f96-709e-4ce7-81eb-1033cd5da72f" name="Changes" comment="" />
+      <created>1729872342201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729872342201</updated>
+    </task>
+    <servers />
+  </component>
+</project>
