@@ -1,0 +1,35 @@
+plugins {
+    id 'java-library'
+    id 'java'
+    alias(libs.plugins.jetbrainsKotlinJvm)
+}
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_17
+    targetCompatibility = JavaVersion.VERSION_17
+}
+
+jar {
+    manifest {
+        attributes(
+                'Main-Class': 'MainKt',
+        )
+    }
+}
+
+task deleteJar(type: Delete) {
+    delete 'libs/jars/logmanagementlib.jar'
+}
+
+task createJar(type: Copy) {
+    from('build/intermediates/bundles/release/')
+    into('libs/jars/')
+    include('classes.jar')
+    rename('classes.jar', 'logmanagementlib.jar')
+}
+
+dependencies {
+    implementation project(':shared')
+}
+
+createJar.dependsOn(deleteJar, build)
