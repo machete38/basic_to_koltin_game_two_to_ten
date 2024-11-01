@@ -1,6 +1,5 @@
 import kotlin.system.exitProcess
 
-
 fun main() {
     val game = object: Game(){
 

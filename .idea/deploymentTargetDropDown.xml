@@ -2,10 +2,10 @@
 <project version="4">
   <component name="deploymentTargetDropDown">
     <value>
-      <entry key="MainActivity">
+      <entry key="koltin_game_android.app">
         <State />
       </entry>
-      <entry key="koltin_game_android.app">
+      <entry key="testGameFlow()">
         <State />
       </entry>
     </value>
