@@ -11,7 +11,6 @@ import io.ktor.server.routing.*
 import kotlinx.html.*
 
 fun Application.configureRouting() {
-    var txt: String = ""
     val txtList: ArrayList<String> = ArrayList()
     var glType = 0
     var b: Int? = 0
@@ -64,31 +63,8 @@ fun Application.configureRouting() {
 
 
         }
-        get("/next") {
-            call.respondHtml(HttpStatusCode.OK) {
-                body {
-                    p{
-                        for (i in txtList.indices)
-                        {
-                            br { +txtList.get(i) }
-                        }
-                    }
-                    form{
-                        method=FormMethod.post
-                        action="/"
-                        input{
-                            id="textInp"
-                        }
-                        input { type=InputType.submit }
-                    }
-
-                }
-            }
 
 
-        }
-
-        // Static plugin. Try to access `/static/index.html`
         staticResources("/static", "static")
     }
 

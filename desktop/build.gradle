@@ -17,6 +17,10 @@ jar {
     }
 }
 
+test {
+    useJUnitPlatform()
+}
+
 task deleteJar(type: Delete) {
     delete 'libs/jars/logmanagementlib.jar'
 }
@@ -30,6 +34,9 @@ task createJar(type: Copy) {
 
 dependencies {
     implementation project(':shared')
+    testImplementation 'junit:junit:4.12'
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.8.1'
+    implementation "org.jetbrains.kotlin:kotlin-stdlib"
 }
 
 createJar.dependsOn(deleteJar, build)
